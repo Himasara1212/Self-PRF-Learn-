@@ -14,7 +14,7 @@ public class Operator {
   System.out.println(x); // 3
 
   x--;
-  System.out.println(x); // 4
+  System.out.println(x); // 2
 
   }
 }
