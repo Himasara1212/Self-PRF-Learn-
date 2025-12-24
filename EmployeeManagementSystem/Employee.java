@@ -43,7 +43,6 @@ public class Employee {
                     System.out.print("Enter Salary: ");
                     double salary = sc.nextDouble();
 
-                    // Correct object creation
                     Employee emp = new Employee(id, name, salary);
                     employees.add(emp);
 
